@@ -1,0 +1,31 @@
+{
+  "name": "koa-http-log",
+  "version": "1.0.0",
+  "description": "Koa request logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo there is no tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SachaCR/koa-http-log.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SachaCR/koa-http-log/issues"
+  },
+  "homepage": "https://github.com/SachaCR/koa-http-log#readme",
+  "keywords": [
+    "koa",
+    "logger",
+    "request",
+    "http",
+    "logging",
+    "log",
+    "logs"
+  ],
+  "author": "SachaCR",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
