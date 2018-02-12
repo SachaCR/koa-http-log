@@ -1,6 +1,6 @@
 {
   "name": "koa-http-log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Koa request logger",
   "main": "index.js",
   "scripts": {
