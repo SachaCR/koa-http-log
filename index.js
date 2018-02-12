@@ -11,7 +11,7 @@ const defaultOpt = {
 function loggerFactory(options) {
   const opt = Object.assign({}, defaultOpt, options)
 
-  if (options.deactivate) {
+  if (opt.deactivate) {
     return async (ctx, next) => next()
   }
 
