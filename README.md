@@ -1,6 +1,6 @@
 # koa-http-log
 
-This module provide a Koa middleware logger that will display HTTP calls on you Koa app.
+This module provide a Koa middleware logger that will display HTTP calls on your Koa app.
 
 ## Example :
 
